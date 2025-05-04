@@ -1,0 +1,14 @@
+/Users/mac/Desktop/project/homework-Maryana-Golik/MyMatrixApp/bin/Debug/net9.0/MyMatrixApp
+/Users/mac/Desktop/project/homework-Maryana-Golik/MyMatrixApp/bin/Debug/net9.0/MyMatrixApp.deps.json
+/Users/mac/Desktop/project/homework-Maryana-Golik/MyMatrixApp/bin/Debug/net9.0/MyMatrixApp.runtimeconfig.json
+/Users/mac/Desktop/project/homework-Maryana-Golik/MyMatrixApp/bin/Debug/net9.0/MyMatrixApp.dll
+/Users/mac/Desktop/project/homework-Maryana-Golik/MyMatrixApp/bin/Debug/net9.0/MyMatrixApp.pdb
+/Users/mac/Desktop/project/homework-Maryana-Golik/MyMatrixApp/obj/Debug/net9.0/MyMatrixApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/project/homework-Maryana-Golik/MyMatrixApp/obj/Debug/net9.0/MyMatrixApp.AssemblyInfoInputs.cache
+/Users/mac/Desktop/project/homework-Maryana-Golik/MyMatrixApp/obj/Debug/net9.0/MyMatrixApp.AssemblyInfo.cs
+/Users/mac/Desktop/project/homework-Maryana-Golik/MyMatrixApp/obj/Debug/net9.0/MyMatrixApp.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/project/homework-Maryana-Golik/MyMatrixApp/obj/Debug/net9.0/MyMatrixApp.dll
+/Users/mac/Desktop/project/homework-Maryana-Golik/MyMatrixApp/obj/Debug/net9.0/refint/MyMatrixApp.dll
+/Users/mac/Desktop/project/homework-Maryana-Golik/MyMatrixApp/obj/Debug/net9.0/MyMatrixApp.pdb
+/Users/mac/Desktop/project/homework-Maryana-Golik/MyMatrixApp/obj/Debug/net9.0/MyMatrixApp.genruntimeconfig.cache
+/Users/mac/Desktop/project/homework-Maryana-Golik/MyMatrixApp/obj/Debug/net9.0/ref/MyMatrixApp.dll
